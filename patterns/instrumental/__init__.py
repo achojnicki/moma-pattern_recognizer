@@ -1,6 +1,6 @@
 patterns=[
 	{
-		"name": "double_bottom",
+		"pattern_name": "double_bottom",
 		"simple_patterns":
 			{
 				
@@ -14,6 +14,44 @@ patterns=[
 				"flat_entry_point_fall_by_8":{"pattern_name": "flat_entry_point_fall_by_8", "pattern": [0,0,0,0,0,0,0,0,0,-8]},
 				"flat_entry_point_fall_by_9":{"pattern_name": "flat_entry_point_fall_by_9", "pattern": [0,0,0,0,0,0,0,0,0,-9]},
 				"flat_entry_point_fall_by_10":{"pattern_name": "flat_entry_point_fall_by_10", "pattern": [0,0,0,0,0,0,0,0,0,-10]},
+				"flat_entry_point_fall_by_11":{"pattern_name": "flat_entry_point_fall_by_11", "pattern": [0,0,0,0,0,0,0,0,0,-11]},
+				"flat_entry_point_fall_by_12":{"pattern_name": "flat_entry_point_fall_by_12", "pattern": [0,0,0,0,0,0,0,0,0,-12]},
+				"flat_entry_point_fall_by_13":{"pattern_name": "flat_entry_point_fall_by_13", "pattern": [0,0,0,0,0,0,0,0,0,-13]},
+				"flat_entry_point_fall_by_14":{"pattern_name": "flat_entry_point_fall_by_14", "pattern": [0,0,0,0,0,0,0,0,0,-14]},
+				"flat_entry_point_fall_by_15":{"pattern_name": "flat_entry_point_fall_by_15", "pattern": [0,0,0,0,0,0,0,0,0,-15]},
+				"flat_entry_point_fall_by_16":{"pattern_name": "flat_entry_point_fall_by_16", "pattern": [0,0,0,0,0,0,0,0,0,-16]},
+				"flat_entry_point_fall_by_17":{"pattern_name": "flat_entry_point_fall_by_17", "pattern": [0,0,0,0,0,0,0,0,0,-17]},
+				"flat_entry_point_fall_by_18":{"pattern_name": "flat_entry_point_fall_by_18", "pattern": [0,0,0,0,0,0,0,0,0,-18]},
+				"flat_entry_point_fall_by_19":{"pattern_name": "flat_entry_point_fall_by_19", "pattern": [0,0,0,0,0,0,0,0,0,-19]},
+				"flat_entry_point_fall_by_20":{"pattern_name": "flat_entry_point_fall_by_20", "pattern": [0,0,0,0,0,0,0,0,0,-20]},
+				"flat_entry_point_fall_by_21":{"pattern_name": "flat_entry_point_fall_by_21", "pattern": [0,0,0,0,0,0,0,0,0,-21]},
+				"flat_entry_point_fall_by_22":{"pattern_name": "flat_entry_point_fall_by_22", "pattern": [0,0,0,0,0,0,0,0,0,-22]},
+				"flat_entry_point_fall_by_23":{"pattern_name": "flat_entry_point_fall_by_23", "pattern": [0,0,0,0,0,0,0,0,0,-23]},
+				"flat_entry_point_fall_by_24":{"pattern_name": "flat_entry_point_fall_by_24", "pattern": [0,0,0,0,0,0,0,0,0,-24]},
+				"flat_entry_point_fall_by_25":{"pattern_name": "flat_entry_point_fall_by_25", "pattern": [0,0,0,0,0,0,0,0,0,-25]},
+				"flat_entry_point_fall_by_26":{"pattern_name": "flat_entry_point_fall_by_26", "pattern": [0,0,0,0,0,0,0,0,0,-26]},
+				"flat_entry_point_fall_by_27":{"pattern_name": "flat_entry_point_fall_by_27", "pattern": [0,0,0,0,0,0,0,0,0,-27]},
+				"flat_entry_point_fall_by_28":{"pattern_name": "flat_entry_point_fall_by_28", "pattern": [0,0,0,0,0,0,0,0,0,-28]},
+				"flat_entry_point_fall_by_29":{"pattern_name": "flat_entry_point_fall_by_29", "pattern": [0,0,0,0,0,0,0,0,0,-29]},
+				"flat_entry_point_fall_by_30":{"pattern_name": "flat_entry_point_fall_by_30", "pattern": [0,0,0,0,0,0,0,0,0,-30]},
+				"flat_entry_point_fall_by_31":{"pattern_name": "flat_entry_point_fall_by_31", "pattern": [0,0,0,0,0,0,0,0,0,-31]},
+				"flat_entry_point_fall_by_32":{"pattern_name": "flat_entry_point_fall_by_32", "pattern": [0,0,0,0,0,0,0,0,0,-32]},
+				"flat_entry_point_fall_by_33":{"pattern_name": "flat_entry_point_fall_by_33", "pattern": [0,0,0,0,0,0,0,0,0,-33]},
+				"flat_entry_point_fall_by_34":{"pattern_name": "flat_entry_point_fall_by_34", "pattern": [0,0,0,0,0,0,0,0,0,-34]},
+				"flat_entry_point_fall_by_35":{"pattern_name": "flat_entry_point_fall_by_35", "pattern": [0,0,0,0,0,0,0,0,0,-35]},
+				"flat_entry_point_fall_by_36":{"pattern_name": "flat_entry_point_fall_by_36", "pattern": [0,0,0,0,0,0,0,0,0,-36]},
+				"flat_entry_point_fall_by_37":{"pattern_name": "flat_entry_point_fall_by_37", "pattern": [0,0,0,0,0,0,0,0,0,-37]},
+				"flat_entry_point_fall_by_38":{"pattern_name": "flat_entry_point_fall_by_38", "pattern": [0,0,0,0,0,0,0,0,0,-38]},
+				"flat_entry_point_fall_by_39":{"pattern_name": "flat_entry_point_fall_by_39", "pattern": [0,0,0,0,0,0,0,0,0,-39]},
+				"flat_entry_point_fall_by_40":{"pattern_name": "flat_entry_point_fall_by_40", "pattern": [0,0,0,0,0,0,0,0,0,-40]},
+				"flat_entry_point_fall_by_41":{"pattern_name": "flat_entry_point_fall_by_41", "pattern": [0,0,0,0,0,0,0,0,0,-41]},
+				"flat_entry_point_fall_by_42":{"pattern_name": "flat_entry_point_fall_by_42", "pattern": [0,0,0,0,0,0,0,0,0,-42]},
+				"flat_entry_point_fall_by_43":{"pattern_name": "flat_entry_point_fall_by_43", "pattern": [0,0,0,0,0,0,0,0,0,-43]},
+				"flat_entry_point_fall_by_44":{"pattern_name": "flat_entry_point_fall_by_44", "pattern": [0,0,0,0,0,0,0,0,0,-44]},
+				"flat_entry_point_fall_by_45":{"pattern_name": "flat_entry_point_fall_by_45", "pattern": [0,0,0,0,0,0,0,0,0,-45]},
+				"flat_entry_point_fall_by_46":{"pattern_name": "flat_entry_point_fall_by_46", "pattern": [0,0,0,0,0,0,0,0,0,-46]},
+				"flat_entry_point_fall_by_47":{"pattern_name": "flat_entry_point_fall_by_47", "pattern": [0,0,0,0,0,0,0,0,0,-47]},
+
 	
 			},
 		"instrumental_patterns": 
@@ -21,70 +59,56 @@ patterns=[
 				"entry_point": 
 					{
 						"name":"entry_point",
-						"event": "start_point",
+						"event": "entry_point",
 						"matching_min": 6,
 						"patterns": [
-							{"pattern_name": "flat_entry_point_fall_by_1", "match_value_min": 99, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_2", "match_value_min": 99, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_3", "match_value_min": 99, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_4", "match_value_min": 99, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_5", "match_value_min": 99, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_6", "match_value_min": 99, "match_value_max": 101.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_7", "match_value_min": 99, "match_value_max": 101.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_8", "match_value_min": 99, "match_value_max": 101.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_9", "match_value_min": 99, "match_value_max": 101.50, "must_match_indexes": [1,2,9]},
-							{"pattern_name": "flat_entry_point_fall_by_10", "match_value_min": 99, "match_value_max": 101.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_1", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_2", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_3", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_4", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_5", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_6", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_7", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_8", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_9", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},
+							{"pattern_name": "flat_entry_point_fall_by_11", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_12", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_13", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_14", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_15", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_16", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_17", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_18", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_19", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_20", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_21", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_22", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_23", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_24", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_25", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_26", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_27", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_28", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_29", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_30", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_31", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_32", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_33", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_34", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_35", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_36", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_37", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_38", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_39", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_40", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_41", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_42", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_43", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_44", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_45", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_46", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
+							{"pattern_name": "flat_entry_point_fall_by_47", "match_value_min": 99.50, "match_value_max": 100.50, "must_match_indexes": [1,2,9]},						
 
-						]
-					},
-				"first_period":
-					{
-						"name": "first_period",
-						"event": "first_period",
-						"match_value_min": 80,
-						"match_value_max": 150,
-						"matching_min": 6,
-						"patterns": [
-							{"pattern_type": "rising_integer_linear"},
-							{"pattern_type": "rising_integer_by_2"},
-							{"pattern_type": "rising_integer_by_4"},
-							{"pattern_type": "rising_integer_by_8"},
-							{"pattern_type": "rising_integer_by_16"},
-							{"pattern_type": "rising_integer_by_32"}
-						]
-
-					},
-				"second_period":
-					{
-						"name": "second_period",
-						"event": "second_period",
-						"match_value_min": 80,
-						"match_value_max": 150,
-						"matching_min": 6,
-						"patterns": [
-							{"pattern_type": "falling_integer_linear"},
-							{"pattern_type": "falling_integer_by_2"},
-							{"pattern_type": "falling_integer_by_4"},
-							{"pattern_type": "falling_integer_by_8"},
-							{"pattern_type": "falling_integer_by_16"},
-							{"pattern_type": "falling_integer_by_32"}
-						]
-					},
-
-				"final_rise":
-					{
-						"name": "final_rise",
-						"event": "final_rise",
-						"match_value_min": 96,
-						"match_value_max": 150,
-						"matching_min": 6,
-						"patterns": [
-							{"pattern_type": "falling_integer_linear"},
-							{"pattern_type": "falling_integer_by_2"},
-							{"pattern_type": "falling_integer_by_4"},
-							{"pattern_type": "falling_integer_by_8"},
-							{"pattern_type": "falling_integer_by_16"},
-							{"pattern_type": "falling_integer_by_32"}
 						]
 					}
 			}

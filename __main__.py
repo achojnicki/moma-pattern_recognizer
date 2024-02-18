@@ -1,7 +1,7 @@
 from adisconfig import adisconfig
 from log import Log
 
-from json import loads
+from json import loads, dumps
 from redis import Redis
 from pika import BlockingConnection, PlainCredentials, ConnectionParameters
 from pprint import pprint, pformat
@@ -75,11 +75,13 @@ class pattern_recognizer:
         indexes_count=self.redis_conn.llen("moma:BTC/USD:indexes")
 
 
-        for offset in range(0,int(indexes_count+1/chunk_size), chunk_size):
+        for offset in range(0,int(indexes_count+1/chunk_size)):
             chunk=self.get_chunk(offset, chunk_size)
-            
+            result=self.instrumental_pattern_recogn.find_pattern(chunk)
 
-            self.instrumental_pattern_recogn.find_pattern(chunk)
+            if result and len(result)==2 and result[0]:
+                self.rabbitmq_channel.basic_publish(exchange="", routing_key="moma-events", body=dumps(result[1]))
+
 
 
 
