@@ -1,5 +1,5 @@
-from adisconfig import adisconfig
-from log import Log
+from adistools.adisconfig import adisconfig
+from adistools.log import Log
 
 from json import loads, dumps
 from redis import Redis
